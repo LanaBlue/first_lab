@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">first_lab</string>
+    <string name="enter_button">Сохранить</string>
+    <string name="name_note">Введите название заметки</string>
+</resources>
